@@ -1,0 +1,11 @@
+div {
+    text-align:center; 
+    padding:50px;
+}
+
+
+.banner {
+    background-color: #1f9baa;
+    border-radius: 2em;
+    color: white;
+}
